@@ -49,5 +49,5 @@ I have created a seperate reposioty for this. Please refer it
 ## System Design Questions
 | S.No | LLD  | HLD  |
 | ------- | --- | --- |
-| Seconds | 301 | 283 |
+| 1 | LRU Cache | Book My Show |
 
