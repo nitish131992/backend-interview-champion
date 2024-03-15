@@ -49,5 +49,10 @@ I have created a seperate reposioty for this. Please refer it
 ## System Design Questions
 | S.No | LLD  | HLD  |
 | ------- | --- | --- |
-| 1 | LRU Cache | Book My Show |
+| 1 | LRU Cache         | Book My Show       |
+| 2 | ATM Design        | Tiny Url           |
+| 3 | Vending Machine   | Make My Trip       |
+| 4 | Elevator Design   | Uber System Design |
+| 5 | Parking Lot       | Ecommerce System (Amazon)   |
+| 6 | Hashmap Internals | Watsap           |
 
