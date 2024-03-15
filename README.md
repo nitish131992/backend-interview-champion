@@ -3,16 +3,16 @@
 
 ## Programming Language
 Choosing a programming language and try to deep dive into it. Below are some of the programming langauga one can choose from
-*Java
-*Python
-*C/C++
-*C#
+* Java
+* Python
+* C/C++
+* C#
 
 I'm an expert in Java and have understanding of python. If you have queries or doubt around it reach out to me.
 
 ## Java
-*Core Java
-*Java 8 - 17
+* Core Java
+* Java 8 - 17
 
 ## DSA and Algorithm
 1 Asymptotic Notations
