@@ -30,22 +30,6 @@ I have created a seperate reposioty for this. Please refer it
 
 ## System Design Questions
 
-
-## Software Architecture Pattern
-*Layered Pattern
-*Event Driven	
-*Client Server 
-*Microkernel
-*Microservices
-*Monolithic
-
-## Microservice Design Patterns
-6.1 Decomposition
-6.2 Integration
-6.3 Database pattern
-6.4 Observability
-6.5 Cross Cutting Concern
-
 ## System Design Questions
 | S.No | LLD  | HLD  |
 | ------- | --- | --- |
@@ -56,3 +40,38 @@ I have created a seperate reposioty for this. Please refer it
 | 5 | Parking Lot       | Ecommerce System (Amazon)   |
 | 6 | Hashmap Internals | Watsap           |
 
+## Software Architecture Pattern
+* Layered Pattern
+* Event Driven	
+* Client Server 
+* Microkernel
+* Microservices
+* Monolithic
+
+## Microservice Design Patterns
+6.1 Decomposition
+6.2 Integration
+6.3 Database pattern
+6.4 Observability
+6.5 Cross Cutting Concern
+
+## Maven
+
+## Spring Boot
+
+## Rest Web Service 
+
+## Cloud
+* AWS
+* Azure
+* GCP
+* Blue Ocean
+
+## Devops
+* Kubernetes
+
+## Past Companies / Projects
+
+# Other Topics
+
+  
