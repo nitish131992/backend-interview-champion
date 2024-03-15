@@ -47,7 +47,7 @@ I have created a seperate reposioty for this. Please refer it
 6.5 Cross Cutting Concern
 
 ## System Design Questions
-Attempt | #1 | #2 | #3 
---- | --- | --- | --- |---
-Seconds | 301 | 283 | 290 
+| S.No | LLD  | HLD  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
 
