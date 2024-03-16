@@ -6,24 +6,32 @@ Sole pupose here is to share what I know and in the process learn from you what 
 
 There is a popular saying 
 
-> _" Sukh baatne se badhta hai, dukh baatne se kam hota hai " (happiness increases & sadness reduces on sharing with others)_
+> _" khushi baatne se badhti hai, dukh baatne se kam hote hai " (happiness increases & sadness reduces on sharing with others)_
 
 As a Software Engineer , what I believe
 
-> _" knowledge baatne se badhta hai, doubts baatne se kam hota hai " (knowledge increases & doubts reduces on sharing with others)_ 
+> _" knowledge baatne se badhti hai, doubts baatne se kam hote hai " (knowledge increases & doubts reduces on sharing with others)_ 
 
 Please feel free to point or any mistake you find out or any feedback you have for me. We can work together. Raise a PR or reach
 out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linkedin.com/in/nitish-vashisth-31858366/))
 
 # Topic that need to be prepared well for Interviews
 
-  -  [Programming Language](url)
-  -  [Java](url)
-  -  [DSA and Algorithm](url)
-  -  [Low Level System Design Low(LLD](url))
-  -  [High Level System Design (LLD)](url)
-  -  [Software Architecture Pattern](url)
-  -  [System Design Questions](url)
+  -  [Programming Language](#programming-language)
+  -  [Java](#java)
+  -  [DSA and Algorithm](#dsa-and-algorithm)
+  -  [Low Level System Design Low(LLD](#low-level-system-design-lowlld)
+  -  [High Level System Design (LLD)](#high-level-system-design-lld)
+  -  [Software Architecture Pattern](#software-architecture-pattern)
+  -  [System Design Questions](#system-design-questions)
+  -  [Microservice Design Patterns](#microservice-design-patterns)
+  -  [Maven](#maven)
+  -  [SpringBoot](#spring-boot)
+  -  [Rest Web Service](#rest-web-service)
+  -  [Cloud](#cloud)
+  -  [DevOps](#devops)
+  -  [Past Companies / Projects](#past-companies--projects)
+  -  [Other Topics](#other-topics)
     
 
 
@@ -74,11 +82,17 @@ I have created a seperate reposioty for this. Please refer it
 
 
 ## Microservice Design Patterns
-6.1 Decomposition
-6.2 Integration
-6.3 Database pattern
-6.4 Observability
-6.5 Cross Cutting Concern
+
+| Decomposition            | Integration                | Data Pattern                       | Observability               |
+| ----------------------   | -------------------------- | ---------------------------------- | --------------------------  |
+| Business Process Based   | Gateway Pattern            | Single Service Databse             | Log Aggragation Pattern     |
+| Domain Based             | Process aggregator pattern | Shared Service Database            | Metrics Aggrgation          |
+| Atomic transaction based | Edge Pattern               | Asyncronous Eventing               | Tracing Pattern             |
+| Strangler Pattern        |                            | CQRS                               | Extrenalized Configuration  |
+| Sidecar Pattern          |                            | SAGA (Coreography & Orchsetartion) | Health Check                | 
+|                          |                            |                                    | Service Discovery           |     
+
+* Cross Cutting Concerns
 
 ## Maven
 
@@ -96,14 +110,7 @@ I have created a seperate reposioty for this. Please refer it
 * Kubernetes
 
 ## MicroService Design Pattern
-| Decomposition            | Integration                | Data Pattern                       | Observability               |
-| ----------------------   | -------------------------- | ---------------------------------- | --------------------------  |
-| Business Process Based   | Gateway Pattern            | Single Service Databse             | Log Aggragation Pattern     |
-| Domain Based             | Process aggregator pattern | Shared Service Database            | Metrics Aggrgation          |
-| Atomic transaction based | Edge Pattern               | Asyncronous Eventing               | Tracing Pattern             |
-| Strangler Pattern        |                            | CQRS                               | Extrenalized Configuration  |
-| Sidecar Pattern          |                            | SAGA (Coreography & Orchsetartion) | Health Check                | 
-|                          |                            |                                    | Service Discovery           |          
+     
 
 * Dashboar and Alerts setup. Ensure to hava a run book for all alerts
 
