@@ -6,7 +6,7 @@ Sole pupose here is to share what I know and in the process learn from you what 
 
 There is a popular saying 
 
-> _" Sukh baatne se badhta hai, dukh baatne se kam hota hai " (happiness increases & sadness reduces on sharing with others) _
+> _" Sukh baatne se badhta hai, dukh baatne se kam hota hai " (happiness increases & sadness reduces on sharing with others)_
 
 As a Software Engineer , what I thinks
 
