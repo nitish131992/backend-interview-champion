@@ -116,8 +116,8 @@ class should depend on interface rather than concrete class.
 |                  |             |   Visitor  |
 
 ## High Level System Design (LLD)
-I have created a seperate reposioty for this. Please refer it
-[HLD](https://github.com/nitish131992/System-Design-Champion)
+I have created a seperate reposioty for this. Please refer from here
+[System-Design-Champion](https://github.com/nitish131992/System-Design-Champion)
 
 It coveres following topic :
 * What is System Design
