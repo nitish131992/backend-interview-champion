@@ -96,14 +96,16 @@ I have created a seperate reposioty for this. Please refer it
 * Kubernetes
 
 ## MicroService Design Pattern
-| Decomposition            | Integration                | Data Pattern               | Observability |
-| ----------------------   | -------------------------- | -------------------------- | ------------- |
-| Business Process Based   | Gateway Pattern            | Single Service Databse     | |
-| Domain Based             | Process aggregator pattern | Shared Service Database    | |
-| Atomic transaction based | Edge Pattern               | Asyncronous Eventing       | |
-| Strangler Pattern        |                            | CQRS                       | |
-| Sidecar Pattern          |                            | SAGA                       | |
+| Decomposition            | Integration                | Data Pattern                       | Observability               |
+| ----------------------   | -------------------------- | ---------------------------------- | --------------------------  |
+| Business Process Based   | Gateway Pattern            | Single Service Databse             | Log Aggragation Pattern     |
+| Domain Based             | Process aggregator pattern | Shared Service Database            | Metrics Aggrgation          |
+| Atomic transaction based | Edge Pattern               | Asyncronous Eventing               | Tracing Pattern             |
+| Strangler Pattern        |                            | CQRS                               | Extrenalized Configuration  |
+| Sidecar Pattern          |                            | SAGA (Coreography & Orchsetartion) | Health Check                | 
+|                          |                            |                                    | Service Discovery           |          
 
+* Dashboar and Alerts setup. Ensure to hava a run book for all alerts
 
 ## Past Companies / Projects
 
