@@ -6,11 +6,11 @@ Sole pupose here is to share what I know and in the process learn from you what 
 
 There is a popular saying 
 
-&ensp Sukh baatne se badhta hai, dukh baatne se kam hota hai" (happiness increases & sadness reduces on sharing with others) 
+> _" Sukh baatne se badhta hai, dukh baatne se kam hota hai " (happiness increases & sadness reduces on sharing with others) _
 
 As a Software Engineer , what I thinks
 
-&ensp  knowledge baatne se badhta hai, doubts baatne se kam hota hai" (knowledge increases & doubts reduces on sharing with others) 
+> _" knowledge baatne se badhta hai, doubts baatne se kam hota hai " (knowledge increases & doubts reduces on sharing with others)_ 
 
 Please feel free to point or any mistake you find out or any feedback you have for me. We can work together. Raise a PR or reach
 out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linkedin.com/in/nitish-vashisth-31858366/))
