@@ -18,7 +18,7 @@ out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linked
 # Topic that need to be prepared well for Interviews
 
   -  [Programming Language](url)
-  -  [Java - Since I'm expert in this I have listed it](url)
+  -  [Java](url)
   -  [DSA and Algorithm](url)
   -  [Low Level System Design Low(LLD](url))
   -  [High Level System Design (LLD)](url)
