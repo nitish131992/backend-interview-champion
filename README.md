@@ -54,9 +54,66 @@ I'm an expert in Java and have understanding of python. If you have queries or d
 1.1.2	Space Complexity
 
 ## Low Level System Design Low(LLD)
-1 OOPs Concepts
-2 SOLID Principles
-3 Other Principles
+
+### OOPs Concepts
+* Class, object,  Abstract Class, Interface
+* Pillars of OOPs
+  *Abstraction
+  *Encapsulation
+  *Inheritance
+  *Polymorphism
+
+### Coupling / Cohesion
+
+### SOLID Principles
+Benefits
+•	Helps us to write better code.
+•	Avoid duplicate code.
+•	Easy to maintain.
+•	Easy to understand.
+•	Flexible Software
+•	Reduce complexity.
+
+S -> Single Responsibility 
+	The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility. This promotes code modularity and makes it easier to maintain and extend the codebase.
+
+O -> Open / Close
+	The Open-Closed Principle emphasizes that a class should be open for extension but closed for modification. This means that you should be able to add new functionality to a class without altering its existing code
+
+L  ->  Liskov’s Substitution
+The Liskov Substitution Principle emphasizes that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program. This means that the behaviour of a subclass should not contradict the behaviour of its superclass.
+
+I   -> Interface segregation
+The Interface Segregation Principle states that a client should not be forced to implement interfaces it doesn’t use. This promotes smaller, specific interfaces rather than large, monolithic ones.
+
+D -> Dependency Inversion
+	The Dependency Inversion Principle advocates that high-level modules should not depend on low-level modules. Both should depend on abstractions. This promotes decoupling and flexibility in your code.
+
+Or 
+
+class should depend on interface rather than concrete class.
+
+
+### Other Principles
+•	DRY (Don't repeat yourself)
+•	Encapsulate What Changes
+•	Favor Composition over Inheritance
+•	Programming for Interface not implementation
+•	Delegation principles
+
+### Design Patterns
+| Creational       | Structural  | Behavioural  |
+| ---------------- | ----------- | ------------ |
+| Abstract Factory |  Adapter    |   Chain of Responsibility  |
+| Factory          |    Bridge   |   Command  |
+| Singleton        |  Composite  |  Iterator   |
+| Builder          |  Decorator  |    Mediator |
+| Prototype        |     Facade  |   Memento  |
+|                  |  Flyweight  |   Observer  |
+|                  |     Proxy   |   State  |
+|                  |             |   Strategy  |
+|                  |             |   Template Method  |
+|                  |             |   Visitor  |
 
 ## High Level System Design (LLD)
 I have created a seperate reposioty for this. Please refer it
