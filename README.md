@@ -119,26 +119,26 @@ class should depend on interface rather than concrete class.
 I have created a seperate reposioty for this. Please refer it
 [HLD](https://github.com/nitish131992/System-Design-Champion)
 
-Topic Covered
-  - [What is System Design ?](#what-is-system-design-)
-  - [CPU and Memory](#cpu-and-memory)
-  - [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
-  - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
-  - [CAP Theorem](#cap-theorem)
-  - [Load Balancer](#load-balancer)
-  - [Asyncronous Processing Queue](#asyncronous-processing-queue)
-  - [Cloud](#cloud)
-  - [Deployment](#deployment)
-  - [DNS](#dns)
-  - [HTTP vs HTTPS](#http-vs-https)
-  - [CDN and Edges](#cdn-and-edges)
-  - [Cahcing](#cahcing)
-  - [Misc Topics](#misc-topics)
-  - [Consistent Hashing](#consistent-hashing)
-  - [Database](#database)
-  - [Node Replication Startegy](#node-replication-startegy)
-  - [Search](#search)
-
+It coveres following Topic Covered
+* What is System Design
+* CPU and Memory
+* Horizontal and vertical scaling
+* Hard Drive / Network Bandwidth
+* CAP Theorem
+* Load Balancer
+* Asyncronous Processing Queue
+* Cloud (AWS, Azure, GCP)
+* Deployment
+* DNS
+* HTTP vs HTTPS
+* CDN and Edge
+* Cahcing
+* Misc Topics
+* Consistent Hashing
+* Database
+* Node Replication Startegy
+* Search
+ 
 ## Software Architecture Pattern
 * Layered Pattern
 * Event Driven	
