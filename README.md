@@ -8,7 +8,7 @@ There is a popular saying
 
 > _" Sukh baatne se badhta hai, dukh baatne se kam hota hai " (happiness increases & sadness reduces on sharing with others)_
 
-As a Software Engineer , what I thinks
+As a Software Engineer , what I believe
 
 > _" knowledge baatne se badhta hai, doubts baatne se kam hota hai " (knowledge increases & doubts reduces on sharing with others)_ 
 
