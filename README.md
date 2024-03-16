@@ -67,26 +67,26 @@ I'm an expert in Java and have understanding of python. If you have queries or d
 
 ### SOLID Principles
 Benefits
-•	Helps us to write better code.
-•	Avoid duplicate code.
-•	Easy to maintain.
-•	Easy to understand.
-•	Flexible Software
-•	Reduce complexity.
+	* Helps us to write better code.
+	* Avoid duplicate code.
+	* Easy to maintain.
+	* Easy to understand.
+	* Flexible Software
+	* Reduce complexity.
 
-S -> Single Responsibility 
+**S** -> Single Responsibility 
 	The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility. This promotes code modularity and makes it easier to maintain and extend the codebase.
 
-O -> Open / Close
+**O** -> Open / Close
 	The Open-Closed Principle emphasizes that a class should be open for extension but closed for modification. This means that you should be able to add new functionality to a class without altering its existing code
 
-L  ->  Liskov’s Substitution
+**L** ->  Liskov’s Substitution
 The Liskov Substitution Principle emphasizes that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program. This means that the behaviour of a subclass should not contradict the behaviour of its superclass.
 
-I   -> Interface segregation
+**I**   -> Interface segregation
 The Interface Segregation Principle states that a client should not be forced to implement interfaces it doesn’t use. This promotes smaller, specific interfaces rather than large, monolithic ones.
 
-D -> Dependency Inversion
+**D** -> Dependency Inversion
 	The Dependency Inversion Principle advocates that high-level modules should not depend on low-level modules. Both should depend on abstractions. This promotes decoupling and flexibility in your code.
 
 Or 
@@ -95,11 +95,11 @@ class should depend on interface rather than concrete class.
 
 
 ### Other Principles
-•	DRY (Don't repeat yourself)
-•	Encapsulate What Changes
-•	Favor Composition over Inheritance
-•	Programming for Interface not implementation
-•	Delegation principles
+	* DRY (Don't repeat yourself)
+	* Encapsulate What Changes
+	* Favor Composition over Inheritance
+	* Programming for Interface not implementation
+	* Delegation principles
 
 ### Design Patterns
 | Creational       | Structural  | Behavioural  |
