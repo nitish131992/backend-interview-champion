@@ -67,12 +67,12 @@ I'm an expert in Java and have understanding of python. If you have queries or d
 
 ### SOLID Principles
 Benefits
-	* Helps us to write better code.
-	* Avoid duplicate code.
-	* Easy to maintain.
-	* Easy to understand.
-	* Flexible Software
-	* Reduce complexity.
+* Helps us to write better code.
+* Avoid duplicate code.
+* Easy to maintain.
+* Easy to understand.
+* Flexible Software
+* Reduce complexity.
 
 **S** -> Single Responsibility 
 	The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility. This promotes code modularity and makes it easier to maintain and extend the codebase.
@@ -95,11 +95,11 @@ class should depend on interface rather than concrete class.
 
 
 ### Other Principles
-	* DRY (Don't repeat yourself)
-	* Encapsulate What Changes
-	* Favor Composition over Inheritance
-	* Programming for Interface not implementation
-	* Delegation principles
+* DRY (Don't repeat yourself)
+* Encapsulate What Changes
+* Favor Composition over Inheritance
+* Programming for Interface not implementation
+* Delegation principles
 
 ### Design Patterns
 | Creational       | Structural  | Behavioural  |
