@@ -1,5 +1,14 @@
 # Interview-Backend
 
+  -  [Programming Language](url)
+  -  [Java](url)
+  -  [DSA and Algorithm](url)
+  -  [Low Level System Design Low(LLD](url))
+  -  [High Level System Design (LLD)](url)
+  -  [Software Architecture Pattern](url)
+  -  [System Design Questions](url)
+    
+
 
 ## Programming Language
 Choosing a programming language and try to deep dive into it. Below are some of the programming langauga one can choose from
@@ -19,7 +28,7 @@ I'm an expert in Java and have understanding of python. If you have queries or d
 1.1.1	Time Complexity
 1.1.2	Space Complexity
 
-## Low Level System Design (LLD)
+## Low Level System Design Low(LLD)
 1 OOPs Concepts
 2 SOLID Principles
 3 Other Principles
@@ -28,7 +37,13 @@ I'm an expert in Java and have understanding of python. If you have queries or d
 I have created a seperate reposioty for this. Please refer it
 [HLD](https://github.com/nitish131992/System-Design-Champion)
 
-## System Design Questions
+## Software Architecture Pattern
+* Layered Pattern
+* Event Driven	
+* Client Server 
+* Microkernel
+* Microservices
+* Monolithic
 
 ## System Design Questions
 | S.No | LLD  | HLD  |
@@ -40,13 +55,6 @@ I have created a seperate reposioty for this. Please refer it
 | 5 | Parking Lot       | Ecommerce System (Amazon)   |
 | 6 | Hashmap Internals | Watsap           |
 
-## Software Architecture Pattern
-* Layered Pattern
-* Event Driven	
-* Client Server 
-* Microkernel
-* Microservices
-* Monolithic
 
 ## Microservice Design Patterns
 6.1 Decomposition
