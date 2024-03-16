@@ -119,7 +119,7 @@ class should depend on interface rather than concrete class.
 I have created a seperate reposioty for this. Please refer it
 [HLD](https://github.com/nitish131992/System-Design-Champion)
 
-It coveres following Topic Covered
+It coveres following topic :
 * What is System Design
 * CPU and Memory
 * Horizontal and vertical scaling
