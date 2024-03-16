@@ -1,5 +1,21 @@
 # Interview-Backend
 
+This documents compiles all the knowlede I have accumalted over last 7 years in my experience. I still believe there is lot to be done.
+This is my attemt to explain in a simple and easy way. There are thing which even I do not undestand fully.
+Sole pupose here is to share what I know and in the process learn from you what I do not know.
+
+There is a popular saying 
+
+  Sukh baatne se badhta hai, dukh baatne se kam hota hai" (happiness increases & sadness reduces on sharing with others) 
+
+As a Software Engineer , what I thinks
+
+   knowledge baatne se badhta hai, doubts baatne se kam hota hai" (knowledge increases & doubts reduces on sharing with others) 
+
+Please feel free to point or any mistake you find out or any feedback you have for me. We can work together. Raise a PR or reach
+out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linkedin.com/in/nitish-vashisth-31858366/))
+
+
   -  [Programming Language](url)
   -  [Java](url)
   -  [DSA and Algorithm](url)
@@ -77,6 +93,16 @@ I have created a seperate reposioty for this. Please refer it
 
 ## Devops
 * Kubernetes
+
+## MicroService Design Pattern
+| Decomposition            | Integration                | Data Pattern               | Observability |
+| ----------------------   | -------------------------- | -------------------------- | ------------- |
+| Business Process Based   | Gateway Pattern            | Single Service Databse     | |
+| Domain Based             | Process aggregator pattern | Shared Service Database    | |
+| Atomic transaction based | Edge Pattern               | Asyncronous Eventing       | |
+| Strangler Pattern        |                            | CQRS                       | |
+| Sidecar Pattern          |                            | SAGA                       | |
+
 
 ## Past Companies / Projects
 
