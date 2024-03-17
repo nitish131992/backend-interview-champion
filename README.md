@@ -21,7 +21,7 @@ out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linked
   -  [Java](#java)
   -  [DSA and Algorithm](#dsa-and-algorithm)
   -  [Low Level System Design Low(LLD](#low-level-system-design-lowlld)
-  -  [High Level System Design (LLD)](#high-level-system-design-lld)
+  -  [High Level System Design (HLD)](#high-level-system-design-lld)
   -  [Software Architecture Pattern](#software-architecture-pattern)
   -  [System Design Questions](#system-design-questions)
   -  [Microservice Design Patterns](#microservice-design-patterns)
