@@ -155,7 +155,7 @@ It coveres following topic :
 | 3 | Vending Machine   | Make My Trip       |
 | 4 | Elevator Design   | Uber System Design |
 | 5 | Parking Lot       | Ecommerce System (Amazon)   |
-| 6 | Hashmap Internals | Watsap           |
+| 6 | Hashmap Internals | Whatsaap           |
 
 
 ## Microservice Design Patterns
