@@ -153,10 +153,9 @@ It coveres following topic :
 | 1 | LRU Cache         | Book My Show       |
 | 2 | ATM Design        | Tiny Url           |
 | 3 | Vending Machine   | Make My Trip       |
-| 4 | Elevator Design   | Uber System Design |
+| 4 | Elevator Design   | [Uber System Design](https://techbacklog.com/uber-system-design) |
 | 5 | Parking Lot       | Ecommerce System (Amazon)   |
 | 6 | Hashmap Internals | Whatsaap           |
-
 
 ## Microservice Design Patterns
 
