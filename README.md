@@ -1,4 +1,4 @@
-# Interview-Backend
+# Be a 10x Enginner
 
 This documents compiles all the knowlede I have accumalted over last 7 years in my experience. I still believe there is lot to be done.
 This is my attemt to explain in a simple and easy way. There are thing which even I do not undestand fully.
