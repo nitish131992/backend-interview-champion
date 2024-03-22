@@ -30,6 +30,8 @@ out to me on nitishlvashisth@gmail.com or via [Linkdin]([url](https://www.linked
   -  [Rest Web Service](#rest-web-service)
   -  [Cloud](#cloud)
   -  [DevOps](#devops)
+    	* Docker
+     	* Kuberneetes 
   -  [Past Companies / Projects](#past-companies--projects)
   -  [Other Topics](#other-topics)
     
@@ -186,6 +188,33 @@ It coveres following topic :
 * Blue Ocean
 
 ## Devops
+* Docker
+
+How does Docker work?
+
+The diagram below shows the architecture of Docker and how it works when we run “docker build”, “docker pull” and “docker run”.
+
+There are 3 components in Docker architecture:
+
+🔹 Docker client
+The docker client talks to the Docker daemon.
+
+🔹 Docker host
+The Docker daemon listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes.
+
+🔹 Docker registry
+A Docker registry stores Docker images. Docker Hub is a public registry that anyone can use.
+
+Let’s take the “docker run” command as an example.
+1. Docker pulls the image from the registry.
+2. Docker creates a new container.
+3. Docker allocates a read-write filesystem to the container.
+4. Docker creates a network interface to connect the container to the default network.
+5. Docker starts the container.
+
+
+  ![Docker](https://github.com/nitish131992/Interview-Backend/assets/19357644/7500dc73-f29d-4927-b0e3-860ca868df73)
+
 * Kubernetes
 
 ## MicroService Design Pattern
