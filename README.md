@@ -176,19 +176,6 @@ It coveres following topic :
 * Microservices
 * Monolithic
 
-## System Design Questions
-| S.No | LLD  | HLD  |
-| ------- | --- | --- |
-| 1 | LRU Cache         | Book My Show       |
-| 2 | ATM Design        | Tiny Url           |
-| 3 | Vending Machine   | Make My Trip       |
-| 4 | Elevator Design   | [Uber System Design](https://techbacklog.com/uber-system-design) |
-| 5 | Parking Lot       | Ecommerce System (Amazon)   |
-| 6 | Hashmap Internals | Whatsaap           |
-|7  |			| Notifiaction Push System |
-
-https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7150527952118575105-Y5Bu?utm_source=share&utm_medium=member_desktop
-
 ## Microservice Design Patterns
 
 | Decomposition            | Integration                | Data Pattern                       | Observability               |
@@ -256,4 +243,17 @@ Let’s take the “docker run” command as an example.
 
 # Other Topics
 
-  
+## System Design Questions
+| S.No | LLD  | HLD  |
+| ------- | --- | --- |
+| 1 | LRU Cache         | Book My Show       |
+| 2 | ATM Design        | Tiny Url           |
+| 3 | Vending Machine   | Make My Trip       |
+| 4 | Elevator Design   | [Uber System Design](https://techbacklog.com/uber-system-design) |
+| 5 | Parking Lot       | Ecommerce System (Amazon)   |
+| 6 | Hashmap Internals | Whatsaap           |
+|7  |			| Notifiaction Push System |
+
+https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7150527952118575105-Y5Bu?utm_source=share&utm_medium=member_desktop
+
+
