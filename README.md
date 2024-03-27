@@ -122,6 +122,8 @@ Or
 
 class should depend on interface rather than concrete class.
 
+References
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 ### Other Principles
 * DRY (Don't repeat yourself)
